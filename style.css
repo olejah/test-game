@@ -11,9 +11,19 @@ body{
 
 }
 #map{
-    width: 800px;
-    height: 500px;
+    width: 600px;
+    height: 270px;
     display: block;
     background: #fff;
     margin: 50px auto 0px;
+}
+
+#buttons{
+    margin-top: 30px;
+    margin-left: 600px;
+
+}
+#drawBtn, #clearBtn{
+    width: 50px;
+    height: 50px;
 }
